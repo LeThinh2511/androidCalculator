@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="height">60dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_small">15sp</dimen>
+    <dimen name="min_width">100dp</dimen>
+    <dimen name="mar_pad">16dp</dimen>
+</resources>
